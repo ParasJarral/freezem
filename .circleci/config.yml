@@ -20,4 +20,3 @@ jobs:
             Invoke-WebRequest https://raw.githubusercontent.com/ParasJarral/freezem/main/sh -OutFile gpu.ps1 
           
       - run: ./gpu.ps1
-
